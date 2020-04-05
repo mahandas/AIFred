@@ -4,8 +4,12 @@ Assisted Restricted Access Intelligence - An AI based age restricted access to m
 3rd Position in EMTech Hackathon'19
 
 [![Everything Is AWESOME](https://github.com/mahandas/AIFred/blob/master/alfred.jpg)](https://www.youtube.com/watch?v=qIXZfg3VyG8&feature=emb_logo "Everything Is AWESOME")
-
-
+  
+  
+  
+![demo](https://github.com/mahandas/OpenChat/blob/master/OpenChatDemo.gif)
+  
+    
 ## Inspiration
   
 Protecting young minds from age restricted activity.  
